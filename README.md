@@ -100,3 +100,7 @@ Analyze trends visually
 Mohit
 📍 Nepal
 📊 Data Analytics & Machine Learning Enthusiast
+
+
+<img width="1138" height="631" alt="Screenshot 2025-12-28 220325" src="https://github.com/user-attachments/assets/5bbfe640-142f-4c5a-a7dc-4cc81abc1aa3" />
+
